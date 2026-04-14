@@ -1,0 +1,15 @@
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\bin\Debug\net8.0\c#-loops-arrays-strings.exe
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\bin\Debug\net8.0\c#-loops-arrays-strings.deps.json
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\bin\Debug\net8.0\c#-loops-arrays-strings.runtimeconfig.json
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\bin\Debug\net8.0\c#-loops-arrays-strings.dll
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\bin\Debug\net8.0\c#-loops-arrays-strings.pdb
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\c#-loops-arrays-strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\c#-loops-arrays-strings.AssemblyInfoInputs.cache
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\c#-loops-arrays-strings.AssemblyInfo.cs
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\c#-loops-arrays-strings.csproj.CoreCompileInputs.cache
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\c#-loops-arrays-strings.sourcelink.json
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\c#-loops-arrays-strings.dll
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\refint\c#-loops-arrays-strings.dll
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\c#-loops-arrays-strings.pdb
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\c#-loops-arrays-strings.genruntimeconfig.cache
+D:\OCS-Heba\backend\c#\loops-strings-arrays-tasks\c#-loops-arrays-strings\obj\Debug\net8.0\ref\c#-loops-arrays-strings.dll
