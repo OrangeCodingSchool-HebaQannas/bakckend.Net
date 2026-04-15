@@ -1,0 +1,15 @@
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\bin\Debug\net8.0\methods&collectionsiInC#.exe
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\bin\Debug\net8.0\methods&collectionsiInC#.deps.json
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\bin\Debug\net8.0\methods&collectionsiInC#.runtimeconfig.json
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\bin\Debug\net8.0\methods&collectionsiInC#.dll
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\bin\Debug\net8.0\methods&collectionsiInC#.pdb
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\methods&collectionsiInC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\methods&collectionsiInC#.AssemblyInfoInputs.cache
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\methods&collectionsiInC#.AssemblyInfo.cs
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\methods&collectionsiInC#.csproj.CoreCompileInputs.cache
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\methods&collectionsiInC#.sourcelink.json
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\methods&collectionsiInC#.dll
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\refint\methods&collectionsiInC#.dll
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\methods&collectionsiInC#.pdb
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\methods&collectionsiInC#.genruntimeconfig.cache
+D:\OCS-Heba\backend\c#\methods&collectionsiInC#\obj\Debug\net8.0\ref\methods&collectionsiInC#.dll
