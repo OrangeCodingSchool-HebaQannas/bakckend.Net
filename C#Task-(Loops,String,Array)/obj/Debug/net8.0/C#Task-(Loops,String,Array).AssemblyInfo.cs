@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#Task-(Loops,String,Array)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+531670003728baba5328ccecac4ef3f84bf60746")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73c4bfcd3f05b64cd109c351ca5ef93d6d0f91fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#Task-(Loops,String,Array)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#Task-(Loops,String,Array)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

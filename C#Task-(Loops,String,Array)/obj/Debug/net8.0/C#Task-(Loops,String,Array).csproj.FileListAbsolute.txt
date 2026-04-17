@@ -1,0 +1,15 @@
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\bin\Debug\net8.0\C#Task-(Loops,String,Array).exe
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\bin\Debug\net8.0\C#Task-(Loops,String,Array).deps.json
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\bin\Debug\net8.0\C#Task-(Loops,String,Array).runtimeconfig.json
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\bin\Debug\net8.0\C#Task-(Loops,String,Array).dll
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\bin\Debug\net8.0\C#Task-(Loops,String,Array).pdb
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\C#Task-(Loops,String,Array).GeneratedMSBuildEditorConfig.editorconfig
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\C#Task-(Loops,String,Array).AssemblyInfoInputs.cache
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\C#Task-(Loops,String,Array).AssemblyInfo.cs
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\C#Task-(Loops,String,Array).csproj.CoreCompileInputs.cache
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\C#Task-(Loops,String,Array).sourcelink.json
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\C#Task-(Loops,String,Array).dll
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\refint\C#Task-(Loops,String,Array).dll
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\C#Task-(Loops,String,Array).pdb
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\C#Task-(Loops,String,Array).genruntimeconfig.cache
+D:\OCS-Heba\backend\c#\C#Task-(Loops,String,Array)\obj\Debug\net8.0\ref\C#Task-(Loops,String,Array).dll
