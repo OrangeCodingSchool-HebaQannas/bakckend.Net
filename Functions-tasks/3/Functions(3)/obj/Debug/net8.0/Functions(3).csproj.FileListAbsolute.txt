@@ -1,0 +1,15 @@
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\bin\Debug\net8.0\Functions(3).exe
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\bin\Debug\net8.0\Functions(3).deps.json
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\bin\Debug\net8.0\Functions(3).runtimeconfig.json
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\bin\Debug\net8.0\Functions(3).dll
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\bin\Debug\net8.0\Functions(3).pdb
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\Functions(3).GeneratedMSBuildEditorConfig.editorconfig
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\Functions(3).AssemblyInfoInputs.cache
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\Functions(3).AssemblyInfo.cs
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\Functions(3).csproj.CoreCompileInputs.cache
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\Functions(3).sourcelink.json
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\Functions(3).dll
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\refint\Functions(3).dll
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\Functions(3).pdb
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\Functions(3).genruntimeconfig.cache
+D:\OCS-Heba\backend\c#\Functions-tasks\3\Functions(3)\obj\Debug\net8.0\ref\Functions(3).dll

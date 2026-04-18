@@ -1,0 +1,15 @@
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).GeneratedMSBuildEditorConfig.editorconfig
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).AssemblyInfoInputs.cache
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).AssemblyInfo.cs
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).csproj.CoreCompileInputs.cache
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).sourcelink.json
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\bin\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).exe
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\bin\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).deps.json
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\bin\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).runtimeconfig.json
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\bin\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).dll
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\bin\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).pdb
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).dll
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\refint\C# Tasks - (Methods,List,LINQ,LinkedList).dll
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).pdb
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\C# Tasks - (Methods,List,LINQ,LinkedList).genruntimeconfig.cache
+D:\OCS-Heba\backend\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\net8.0\ref\C# Tasks - (Methods,List,LINQ,LinkedList).dll
