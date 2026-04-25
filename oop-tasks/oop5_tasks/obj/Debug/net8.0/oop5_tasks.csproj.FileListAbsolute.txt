@@ -1,0 +1,15 @@
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\bin\Debug\net8.0\oop5_tasks.exe
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\bin\Debug\net8.0\oop5_tasks.deps.json
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\bin\Debug\net8.0\oop5_tasks.runtimeconfig.json
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\bin\Debug\net8.0\oop5_tasks.dll
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\bin\Debug\net8.0\oop5_tasks.pdb
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\oop5_tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\oop5_tasks.AssemblyInfoInputs.cache
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\oop5_tasks.AssemblyInfo.cs
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\oop5_tasks.csproj.CoreCompileInputs.cache
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\oop5_tasks.sourcelink.json
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\oop5_tasks.dll
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\refint\oop5_tasks.dll
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\oop5_tasks.pdb
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\oop5_tasks.genruntimeconfig.cache
+D:\OCS-Heba\backend\c#\oop-tasks\oop5_tasks\obj\Debug\net8.0\ref\oop5_tasks.dll

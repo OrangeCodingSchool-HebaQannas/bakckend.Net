@@ -1,0 +1,5 @@
+Name: Heba
+Age: 21
+Specialization: Fullstack Developer
+Description: I build backend systems and learn C# daily.
+Goal: Master Object-Oriented Programming.
