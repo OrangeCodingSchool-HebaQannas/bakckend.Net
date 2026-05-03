@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\migrations\\20260502191451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:migrations\\20260502191451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|d:\\ocs-heba\\backend\\c#\\.net\\aspnetintro2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99AAA5B-416E-47A6-9ACC-D66D3A58716C}|AspNetIntro2.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-02T20:15:57.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T15:51:07.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:44:30.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T13:45:10.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260502191451_InitialCreate.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Migrations\\20260502191451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260502191451_InitialCreate.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Migrations\\20260502191451_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260502191451_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:14:52.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T15:45:18.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T13:55:23.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:21:52.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T13:55:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\AspNetIntro2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:23:07.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
