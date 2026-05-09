@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,52 +11,72 @@
       "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\products\\bycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\products\\bycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\migrations\\20260505121725_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:migrations\\20260505121725_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|d:\\ocs-heba\\backend\\c#\\.net\\productcatalog\\migrations\\20260505122747_productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12067B9-FD0D-4504-B65E-66343BC7B0B0}|ProductCatalog.csproj|solutionrelative:migrations\\20260505122747_productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,166 +91,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T09:30:36.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T09:23:04.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Create.cshtml",
-              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T09:22:19.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T09:13:53.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAcwEUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T09:07:25.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwD8AAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T09:06:49.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwDEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T09:23:55.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-03T08:26:50.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T08:08:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Categories\\Details.cshtml",
               "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Details.cshtml",
               "RelativeToolTip": "Views\\Categories\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T09:22:29.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T09:22:29.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T09:22:30.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvx0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T08:38:30.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T08:28:11.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
@@ -242,12 +136,101 @@
               "RelativeToolTip": "Views\\Products\\Edit.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T09:23:33.954Z",
+              "WhenOpened": "2026-05-03T09:23:33.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ByCategory.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\ByCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\ByCategory.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\ByCategory.cshtml",
+              "RelativeToolTip": "Views\\Products\\ByCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T08:04:53.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:23:04.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:13:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:23:55.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAowLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:06:49.715Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAiwLsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:07:25.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:30:36.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -255,12 +238,47 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-03T08:39:34.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T08:39:34.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:22:19.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260505121725_Update-Database.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Migrations\\20260505121725_Update-Database.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260505121725_Update-Database.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Migrations\\20260505121725_Update-Database.cs",
+              "RelativeToolTip": "Migrations\\20260505121725_Update-Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:17:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260505122747_ProductDb.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Migrations\\20260505122747_ProductDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260505122747_ProductDb.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Migrations\\20260505122747_ProductDb.cs",
+              "RelativeToolTip": "Migrations\\20260505122747_ProductDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:27:47.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -268,8 +286,43 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T08:33:22.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T08:33:22.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:38:30.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:22:30.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\OCS-Heba\\backend\\c#\\.NET\\ProductCatalog\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:28:11.285Z"
             }
           ]
         }

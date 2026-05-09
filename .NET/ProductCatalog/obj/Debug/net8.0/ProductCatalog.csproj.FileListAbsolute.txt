@@ -253,3 +253,11 @@ D:\OCS-Heba\backend\c#\.NET\ProductCatalog\obj\Debug\net8.0\refint\ProductCatalo
 D:\OCS-Heba\backend\c#\.NET\ProductCatalog\obj\Debug\net8.0\ProductCatalog.pdb
 D:\OCS-Heba\backend\c#\.NET\ProductCatalog\obj\Debug\net8.0\ProductCatalog.genruntimeconfig.cache
 D:\OCS-Heba\backend\c#\.NET\ProductCatalog\obj\Debug\net8.0\ref\ProductCatalog.dll
+D:\OCS-Heba\backend\c#\.NET\ProductCatalog\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\OCS-Heba\backend\c#\.NET\ProductCatalog\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\OCS-Heba\backend\c#\.NET\ProductCatalog\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\OCS-Heba\backend\c#\.NET\ProductCatalog\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\OCS-Heba\backend\c#\.NET\ProductCatalog\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\OCS-Heba\backend\c#\.NET\ProductCatalog\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\OCS-Heba\backend\c#\.NET\ProductCatalog\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\OCS-Heba\backend\c#\.NET\ProductCatalog\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll

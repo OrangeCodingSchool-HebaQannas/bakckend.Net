@@ -45,29 +45,52 @@ namespace ProductCatalog.Controllers
             return View(product);
         }
 
-        // GET: Products/Create
+        // 1. GET: Products/Create
+        // This action ONLY loads the empty form page.
+        [HttpGet]
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id");
+            // Changed "Id" to "Name" so the dropdown shows the Category Name instead of just the Number
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
             return View();
         }
 
-        // POST: Products/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // 2. POST: Products/Create
+        // This action ONLY runs when you click the "Create" button on the form.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Description,ImageUrl,Price,CategoryId")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Name,Description,Price,CategoryId")] Product product, IFormFile? ImageFile)
         {
             if (ModelState.IsValid)
             {
+                // Handle File Upload
+                if (ImageFile != null && ImageFile.Length > 0)
+                {
+                    string folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", "products");
+                    if (!Directory.Exists(folder)) Directory.CreateDirectory(folder);
+
+                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(ImageFile.FileName);
+                    string filePath = Path.Combine(folder, fileName);
+
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await ImageFile.CopyToAsync(stream);
+                    }
+
+                    product.ImageUrl = "/images/products/" + fileName;
+                }
+
                 _context.Add(product);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", product.CategoryId);
+
+            // If we reach here, something was wrong (Validation failed). 
+            // Reload the Category list so the dropdown isn't empty.
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
             return View(product);
         }
+
 
         // GET: Products/Edit/5
         public async Task<IActionResult> Edit(int? id)
@@ -160,5 +183,23 @@ namespace ProductCatalog.Controllers
         {
             return _context.Products.Any(e => e.Id == id);
         }
+
+        // GET: /Product/ByCategory
+        public IActionResult ByCategory(int id)
+        {
+            var products = _context.Products
+                                   .Where(p => p.CategoryId == id)
+                                   .ToList();
+            return View(products);
+        }
+
+        //// GET: /Product/Details
+        //public IActionResult Details(int id)
+        //{
+        //    var product = _context.Products
+        //                          .FirstOrDefault(p => p.Id == id);
+        //    if (product == null) return NotFound();
+        //    return View(product);
+        //}
     }
 }

@@ -48,6 +48,10 @@
                             <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger">Delete</a>
                         </div>
                     </td>
+                    <td>
+                        <a asp-controller="Products" asp-action="ByCategory" asp-route-id="@item.Id"
+                           class="btn btn-primary">View Products</a>
+                    </td>
                 </tr>
             }
         </tbody>
